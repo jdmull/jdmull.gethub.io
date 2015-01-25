@@ -1,0 +1,29 @@
+Data products presentation
+========================================================
+author: Jessica Mullison
+date: Jan 25, 2013
+
+First Slide
+========================================================
+
+This is an application that shows some compound interest
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Fourth Slide
+========================================================
+
+Fifth Slide
+========================================================
